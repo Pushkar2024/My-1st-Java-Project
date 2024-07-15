@@ -1,1 +1,1 @@
-THis is DevOps Lab.
+This is DevOps Lab.
